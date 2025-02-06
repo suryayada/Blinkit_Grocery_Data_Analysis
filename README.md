@@ -1,4 +1,4 @@
-project Blinkit Analysis, involves analyzing sales data from a dataset named blinkit_data. Here's a breakdown of what you've done:
+Project Blinkit Analysis, involves analyzing sales data from a dataset named blinkit_data. Here's a breakdown of what you've done:
 
 1. Data Importation and Cleaning
 Imported data using SELECT * FROM blinkit_data.
